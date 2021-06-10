@@ -1,0 +1,26 @@
+{
+  "1622241057314": {
+    "originalName": "CTQ.png",
+    "fileName": "1622241057314.png",
+    "size": 83611,
+    "url": "${appResourceUrl}/images/widget_143/1622241057314.png",
+    "created": 1622241057314,
+    "resourcesPrefix": "images/widget_143",
+    "referedIds": [],
+    "originId": "1622241057314",
+    "fileFormat": "image/png",
+    "isUseCompress": false
+  },
+  "1623182736810": {
+    "originalName": "logo-white-sml.png",
+    "fileName": "1623182736810.png",
+    "size": 2594,
+    "url": "${appResourceUrl}/images/widget_320/1623182736810.png",
+    "created": 1623182736810,
+    "resourcesPrefix": "images/widget_320",
+    "referedIds": [],
+    "originId": "1623182736810",
+    "fileFormat": "image/png",
+    "isUseCompress": false
+  }
+}
